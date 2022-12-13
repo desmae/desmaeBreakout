@@ -1,1 +1,3 @@
 # desmaeBreakout
+
+USE A AND D TO MOVE. SPACE TO BEGIN GAME.
